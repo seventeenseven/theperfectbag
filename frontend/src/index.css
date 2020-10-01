@@ -28,7 +28,7 @@ button {
 }
 .header {
   grid-area: header;
-  background-color: #680e27;
+  background-color: #d5a5b2;
   color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -55,7 +55,7 @@ button {
 }
 .footer {
   grid-area: footer;
-  background-color: #680e27;
+  background-color: #d5a5b2;
   color: #ffffff;
   display: flex;
   justify-content: center;
@@ -65,7 +65,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #ff8000;
+  color: #570d4f;
 }
 /* Home Screen */
 .products {
@@ -464,3 +464,4 @@ tbody > tr:nth-child(odd) {
 .categories a:hover {
   background-color: #c0c0c0;
 }
+
