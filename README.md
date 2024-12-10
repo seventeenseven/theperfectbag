@@ -1,4 +1,5 @@
-An eCommerce platform designed to showcase and sell a curated collection of bags, offering features like advanced filtering, secure payments, and seamless user experience.
+An eCommerce platform designed to showcase and sell a curated collection of bags, \
+offering features like advanced filtering, secure payments, and seamless user experience.
 
 # 👜 The Perfect Bag
 ---
